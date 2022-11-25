@@ -1,0 +1,6 @@
+C:\www\mt2\v3\.net\Business\bin\Debug\Business.dll
+C:\www\mt2\v3\.net\Business\bin\Debug\Business.pdb
+C:\www\mt2\v3\.net\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\www\mt2\v3\.net\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\www\mt2\v3\.net\Business\obj\Debug\Business.dll
+C:\www\mt2\v3\.net\Business\obj\Debug\Business.pdb
